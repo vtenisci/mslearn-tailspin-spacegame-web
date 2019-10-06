@@ -1,3 +1,2 @@
 pool:
-  vmImage: 'Ubuntu-16.05'
-stages: []
+  vmImage: 'Ubuntu-16.04'
